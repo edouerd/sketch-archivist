@@ -15,3 +15,7 @@ If multiple artboards were created in a single day, they will create a column of
 In this way, old work can be made easily navigable.
 
 —
+
+Resources
+
+1. [Sketch Dev Actions](http://developer.sketchapp.com/reference/action/) — Actions accesible via the API.
